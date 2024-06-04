@@ -12,7 +12,7 @@ communication and collaboration skills, I chose the path of becoming a data anal
 ## Skills ⚡
 
 - SQL (MySQL)
-- R   (ggplot2,tydiverse)
+- R   (ggplot2,tidyverse)
 - Power BI
 - Excel
 
