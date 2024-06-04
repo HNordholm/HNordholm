@@ -1,5 +1,24 @@
-## Hi there 👋
+## Hello 👋
 
+With over 12 years of experience from the fire protection industry where I developed great soft skills in planning,
+communication and collaboration skills, I chose the path of becoming a data analyst with expertise in transforming raw data into insights.
+
+## About me ✨
+
+- **Age:** 30
+- **Location:** Stockholm, Sweden
+- **Education:** Final-year Economics and statistics student at Linnaeus University
+
+## Skills ⚡
+
+- SQL (MySQL)
+- R   (ggplot2,tydiverse)
+- Power BI
+- Excel
+
+## 📫 Contact
+- LinkedIn: [https://www.linkedin.com/in/hampusnordholm-0a39941a4/](https://www.linkedin.com/in/hampusnordholm-0a39941a4/)
+- Email: Hampus.Nordholm@live.se
 <!--
 **HNordholm/HNordholm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
