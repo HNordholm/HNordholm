@@ -1,7 +1,7 @@
 ## Hello 👋
 
 With over 12 years of experience from the fire protection industry where I developed great soft skills in planning,
-communication and collaboration skills, I chose the path of becoming a data analyst with expertise in transforming raw data into insights.
+communication and collaboration, I decided to chose the path of becoming a data analyst with expertise in transforming raw data into insights.
 
 ## About me ✨
 
