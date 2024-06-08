@@ -6,8 +6,8 @@ communication and collaboration, I decided to chose the path of becoming a data 
 ## About me ✨
 
 - **Age:** 30
-- **Location:** Stockholm, Sweden
-- **Education:** Final-year Economics and statistics student at Linnaeus University
+- **Location:** Knivsta, Sweden
+- **Education:** Final-year economics and statistics student at Linnaeus university
 
 ## Skills ⚡
 
