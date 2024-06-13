@@ -1,20 +1,18 @@
 ## Hello 👋
 
-With over 12 years of experience from the fire protection industry where I developed great soft skills in planning,
-communication and collaboration, I decided to chose the path of becoming a data analyst with expertise in transforming raw data into insights.
+Welcome to my portfolio!Here you will find the projects I have carried out alongside my university studies. The primary goal of this portfolio is to 
+expand my knowledge in data analysis and statistical methods. My long-term goal is to become a professional data scientist, where I can contribute with stable foundations for important decision-making. 
 
 ## About me ✨
 
 - **Age:** 30
 - **Location:** Knivsta, Sweden
-- **Education:** Final-year economics and statistics student at Linnaeus university
+- **Education:** Final-year economics/business student at Linnaeus university
 
-## Skills ⚡
+## Technical stack ⚡
+-Languages: SQL,R programming
 
-- SQL (MySQL)
-- R   (ggplot2,tidyverse)
-- Power BI
-- Excel
+-Software's:R,mySQL,Power BI,Excel
 
 ## 📫 Contact
 - LinkedIn: [https://www.linkedin.com/in/hampusnordholm-0a39941a4/](https://www.linkedin.com/in/hampusnordholm-0a39941a4/)
