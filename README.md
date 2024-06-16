@@ -1,6 +1,8 @@
 ## Hello 👋
 
-Welcome to my portfolio!Here you will find the projects I have carried out alongside my university studies. The primary goal of this portfolio is to 
+Welcome to my portfolio!
+
+Here you will find the projects I have carried out alongside my university studies. The primary goal of this portfolio is to 
 expand my knowledge in data analysis and statistical methods. My long-term goal is to become a professional data scientist, where I can contribute with stable foundations for important decision-making. 
 
 ## About me ✨
