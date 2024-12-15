@@ -1,13 +1,17 @@
 ## Hello 👋
 
 Welcome to my portfolio!
-
-Here you will find the projects I have carried out alongside my university studies. 
-My primary goal with this portfolio is to share my knowledge and passion for data-driven projects. Here, you will find a range of content, from visualizations to more specialized analyses involving regression modeling and hypothesis testing. If you have any questions, please feel free to reach out!
+ 
+My primary goal with this portfolio is to share my knowledge and passion for data-driven projects. Here you will find a range of projects:
+- Visualization and reporting in R
+- Power BI reports 
+- regression modeling
+- hypothesis testing
+- SQL 
 
 ## About me ✨
 
-- **Age:** 30
+- **Age:** 31
 - **Location:** Knivsta, Sweden
 - **Education:** Final-year economics/business student at Linnaeus university
 
