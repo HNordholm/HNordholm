@@ -2,7 +2,7 @@
 
 Welcome to my portfolio!
  
-My primary goal with this portfolio is to share my knowledge and passion for data-driven projects. Here you will find a range of projects:
+This portfolio contains my DS projects. Enjoy!
 - Visualization and reporting in R
 - Power BI reports 
 - regression modeling
