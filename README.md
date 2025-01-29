@@ -2,12 +2,10 @@
 
 Welcome to my portfolio!
  
-This portfolio contains my DS projects. Enjoy!
-- Visualization and reporting in R
-- Power BI reports 
-- regression modeling
-- hypothesis testing
-- SQL 
+Since the first time I was introduced to R I’ve been hooked. Programming for me is not just about writing code, it’s become a lifestyle. In this portfolio you’ll find my projects related to ML, visualizations, and more! I hope you enjoy exploring them.
+
+Best regards,
+Hampus
 
 ## About me ✨
 
