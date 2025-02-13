@@ -2,7 +2,7 @@
 
 Welcome to my portfolio!
  
-Since the first time I was introduced to R I’ve been hooked. Programming for me is not just about writing code, it’s become a lifestyle. In this portfolio you’ll find my projects related to ML, visualizations, and more! I hope you enjoy exploring them.
+Since the first time I was introduced to R I’ve been hooked. Programming for me is not just about writing code, it’s  a lifestyle. In this portfolio you’ll find my projects related to ML, visualizations, and more! I hope you enjoy exploring them.
 
 Best regards,
 Hampus
@@ -11,7 +11,7 @@ Hampus
 
 - **Age:** 31
 - **Location:** Knivsta, Sweden
-- **Education:** Final-year economics/business student at Linnaeus university
+- **Education:** Final year bachelor's student in economics, specializing in business analytics.
 
 ## Technical stack ⚡
 -Languages: SQL,R programming
