@@ -1,37 +1,36 @@
-## Hello!
+# Hello
 
-Welcome to my portfolio!
- 
-Since the first time I was introduced to R I’ve been hooked. Programming for me is not just about writing code, it’s  a lifestyle. In this portfolio you’ll find my projects related to ML, visualizations, and reporting! I hope you enjoy exploring them.
+I’m a final year economic student at Linnaeus University, focused on digital performance, ecommerce behavior, and stakeholder-ready reporting.  
+I build insights using tools like **Google Analytics 4**, **R**, **SQL**, and **RMarkdown**, and share weekly reports and projects in my github. 
 
-Best regards,
-Hampus
+---
 
-## About me 
+## Current Project
 
-- **Age:** 31
-- **Location:** Knivsta, Sweden
-- **Education:** Final year bachelor's student in economics, specializing in business analytics.
+### [GA4 Weekly Reporting Portfolio](https://github.com/HNordholm/weekly-GA4-reporting-)
 
-## Technical stack 
--Languages: SQL,R programming
+A recurring analytics project based on the **GA4 demo store**, where I answer stakeholder questions and provide weekly reports with:
+- Funnel analysis
+- Product insights
+- Audience segmentation
+- Traffic quality breakdowns
 
--Software's:R,mySQL, SSMS, Power BI, GA4
+Each report is built in RMarkdown and exported as a PDF with visuals from GA4.  
+[View the latest report →](https://github.com/HNordholm/weekly-GA4-reporting-/blob/main/Week18/w18report.pdf)
 
-##  Contact
-- LinkedIn: [https://www.linkedin.com/in/hampusnordholm-0a39941a4/](https://www.linkedin.com/in/hampusnordholm-0a39941a4/)
-- Email: Hampus.Nordholm@live.se
-<!--
-**HNordholm/HNordholm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+##  Tools & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Analytics:** Google analytics 4 
+- **Data:** SQL, R, Excel
+- **Reporting:** RMarkdown, PDF-based
+- **Focus Areas:** Product performance, user behavior, ecommerce KPIs, regression modeling 
+
+---
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/YOUR-LINK-HERE)
+- [GitHub](https://github.com/HNordholm)
+- Email: hampus.nordholm@live.se
