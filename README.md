@@ -1,24 +1,24 @@
-## Hello 👋
+## Hello!
 
 Welcome to my portfolio!
  
-Since the first time I was introduced to R I’ve been hooked. Programming for me is not just about writing code, it’s  a lifestyle. In this portfolio you’ll find my projects related to ML, visualizations, and more! I hope you enjoy exploring them.
+Since the first time I was introduced to R I’ve been hooked. Programming for me is not just about writing code, it’s  a lifestyle. In this portfolio you’ll find my projects related to ML, visualizations, and reporting! I hope you enjoy exploring them.
 
 Best regards,
 Hampus
 
-## About me ✨
+## About me 
 
 - **Age:** 31
 - **Location:** Knivsta, Sweden
 - **Education:** Final year bachelor's student in economics, specializing in business analytics.
 
-## Technical stack ⚡
+## Technical stack 
 -Languages: SQL,R programming
 
--Software's:R,mySQL,Power BI,Excel
+-Software's:R,mySQL, SSMS, Power BI, GA4
 
-## 📫 Contact
+##  Contact
 - LinkedIn: [https://www.linkedin.com/in/hampusnordholm-0a39941a4/](https://www.linkedin.com/in/hampusnordholm-0a39941a4/)
 - Email: Hampus.Nordholm@live.se
 <!--
