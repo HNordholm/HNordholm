@@ -16,7 +16,7 @@ A recurring analytics project based on the **Google Analytics 4 demo store**, wh
 - Audience segmentation 
 - Traffic source evaluation and engagement metrics
 
-All reports are created in Rmarkdown and exported as PDFs with annotated GA4 visuals.  
+All reports are created in Rmarkdown and exported as PDFs with annotated GA4 visuals and looker reports.   
  [View the latest report](https://github.com/HNordholm/weekly-GA4-reporting-/blob/main/Week19/w19report.pdf)
 
 ---
