@@ -1,7 +1,7 @@
 # Hello
 
 Final-year Economics student at Linnaeus University graduating 4th June. Here, you find projects in digital performance analysis, ecommerce behavior, statistical analysis and reporting.  
-I work with tools such as Google Analytics 4, R, SQL, Looker Studio, and R Markdown to deliver clear and actionable insights through visuals and statistical evidence.
+I work with tools such as **Google Analytics 4**, **R**, **SQL**, **Looker studio**, and **R Markdown** to deliver clear and actionable insights through visuals and statistical evidence.
 
 ---
 
@@ -17,7 +17,7 @@ A recurring analytics project based on the **Google Analytics 4 demo store**, wh
 - Traffic source evaluation and engagement metrics
 
 All reports are created in Rmarkdown and exported as PDFs with annotated GA4 visuals.  
- [View the latest report](https://github.com/HNordholm/weekly-GA4-reporting-/blob/main/Week18/w18report.pdf)
+ [View the latest report](https://github.com/HNordholm/weekly-GA4-reporting-/blob/main/Week19/w19report.pdf)
 
 ---
 
