@@ -1,7 +1,7 @@
 # Hello
 
 Final-year Economics student at Linnaeus University graduating 4th June. Here, you find projects in digital performance analysis, ecommerce behavior, statistical analysis and reporting.  
-I work with tools such as Google Analytics 4, R, SQL, Looker Studio, and R Markdown to deliver clear and actionable insights with visuals and statistics.
+I work with tools such as Google Analytics 4, R, SQL, Looker Studio, and R Markdown to deliver clear and actionable insights through visuals and statistical evidence.
 
 ---
 
