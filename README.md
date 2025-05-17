@@ -34,4 +34,4 @@ All reports are created in Rmarkdown and exported as PDFs with annotated GA4 vis
 
 - [LinkedIn](https://www.linkedin.com/in/YOUR-LINK-HERE)
 - [GitHub](https://github.com/HNordholm)
-- [Email] hampus.nordholm@live.se
+- Email:hampus.nordholm@live.se
