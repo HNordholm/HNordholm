@@ -1,7 +1,7 @@
 # Hello
 
-I'm a final-year Economics student at Linnaeus University. Here, you find projects in digital performance analysis, ecommerce behavior, statistical analysis and reporting.  
-I work with tools like **Google Analytics 4**, **R**, **SQL**, and **RMarkdown** to produce actionable insights, and I share weekly analysis and projects here on GitHub.
+Final-year Economics student at Linnaeus University graduating 4th June. Here, you find projects in digital performance analysis, ecommerce behavior, statistical analysis and reporting.  
+I work with tools such as Google Analytics 4, R, SQL, Looker Studio, and R Markdown to deliver clear and actionable insights with visuals and statistics.
 
 ---
 
@@ -23,7 +23,7 @@ All reports are created in Rmarkdown and exported as PDFs with annotated GA4 vis
 
 ##  Tools & skills
 
-- **Analytics:** Google Analytics 4 (GA4)  
+- **Analytics:** Google Analytics 4 (GA4), Looker studio   
 - **Data:** SQL, R, Excel  
 - **Statistics:** Regression modeling, hypothesis testing  
 - **Reporting:** RMarkdown, PDF-based documentation  
@@ -34,4 +34,4 @@ All reports are created in Rmarkdown and exported as PDFs with annotated GA4 vis
 
 - [LinkedIn](https://www.linkedin.com/in/YOUR-LINK-HERE)
 - [GitHub](https://github.com/HNordholm)
-- Email: hampus.nordholm@live.se
+- [Email] hampus.nordholm@live.se
