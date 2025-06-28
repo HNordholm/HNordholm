@@ -1,15 +1,15 @@
 # Hello
 
 Final-year Economics student at Linnaeus University graduating 4th June. Here, you find projects in digital performance analysis, ecommerce behavior, statistical analysis and reporting.  
-I work with tools such as **Google Analytics 4**, **R**, **SQL**, **Looker studio**, and **R Markdown** to deliver clear and actionable insights through visuals and statistical evidence.
+I work with tools such as **Google Analytics 4**, **R**, **SQL**, **Excel**, and **Power BI** to deliver clear and actionable insights through visuals and statistical evidence.
 
 ---
 
-## Current project
+## Last project
 
 ### [GA4 Weekly reporting portfolio](https://github.com/HNordholm/weekly-GA4-reporting-)
 
-A recurring analytics project based on the **Google Analytics 4 demo store**, where I answer questions through weekly reports covering:
+Analytics project based on the **Google Analytics 4 demo store**, where I answer questions through weekly reports covering:
 
 - Funnel performance analysis  
 - Product-level insights  
