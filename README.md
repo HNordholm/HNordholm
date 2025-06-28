@@ -1,6 +1,6 @@
 # Hello
 
-Final-year Economics student at Linnaeus University graduating 4th June. Here, you find projects in digital performance analysis, ecommerce behavior, statistical analysis and reporting.  
+Economist who enjoys getting the most out of raw data. Here, you find projects in digital performance analysis, ecommerce behavior, statistical analysis and reporting.  
 I work with tools such as **Google Analytics 4**, **R**, **SQL**, **Excel**, and **Power BI** to deliver clear and actionable insights through visuals and statistical evidence.
 
 ---
